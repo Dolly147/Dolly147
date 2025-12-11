@@ -1,4 +1,4 @@
-<img align="right" height="250" src="https://i.pinimg.com/736x/32/4c/14/324c1483b48d8b998f0e5916b09bed2e.jpg"  />
+<img align="right" height="400" src="https://i.pinimg.com/736x/32/4c/14/324c1483b48d8b998f0e5916b09bed2e.jpg"  />
 
 ###
 
@@ -67,14 +67,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
